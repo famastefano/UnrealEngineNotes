@@ -1,7 +1,5 @@
 # Assertion Macros
 
-## Core module
-
 ```cpp
 // Full Include Path
 #include "Core/Misc/AssertionMacros.h"
